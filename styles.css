@@ -7,3 +7,11 @@
 body {
   display: flex;
 }
+
+.left_container {
+  width: 40vw;
+}
+
+.right_container {
+  width: 60vw;
+}
