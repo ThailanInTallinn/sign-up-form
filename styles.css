@@ -10,6 +10,7 @@ body {
 
 .left_container {
   width: 35vw;
+  background-image: url(./assets/form-background.avif);
 }
 
 .right_container {
