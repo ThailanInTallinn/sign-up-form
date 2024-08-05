@@ -14,6 +14,7 @@ body {
   background-image: url(./assets/form-background.avif);
   background-position: center;
   background-size: cover;
+  position: relative;
 }
 
 .right_container {
@@ -28,6 +29,7 @@ body {
   justify-content: center;
   height: 18vh;
   position: relative;
+  top: 22vh;
 }
 
 #logo_image {
