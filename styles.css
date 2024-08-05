@@ -12,6 +12,8 @@ body {
 .left_container {
   width: 35vw;
   background-image: url(./assets/form-background.avif);
+  background-position: center;
+  background-size: cover;
 }
 
 .right_container {
