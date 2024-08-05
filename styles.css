@@ -23,3 +23,7 @@ body {
 .logo_container {
   background-color: rgba(0, 0, 0, 0.4);
 }
+
+#logo_image {
+  width: calc(2em + 4vw);
+}
