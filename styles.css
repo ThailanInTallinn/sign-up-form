@@ -27,3 +27,11 @@ body {
 #logo_image {
   width: calc(2em + 4vw);
 }
+@font-face {
+  font-family: "Norse-Bold";
+  src: url(./assets/Norse-Bold.otf);
+}
+
+#logo_para {
+  font-family: "Norse-Bold";
+}
