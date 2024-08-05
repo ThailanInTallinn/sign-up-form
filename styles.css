@@ -27,6 +27,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 18vh;
+  position: relative;
 }
 
 #logo_image {
@@ -41,4 +42,6 @@ body {
   font-family: "Norse-Bold";
   color: white;
   font-size: 5rem;
+  position: relative;
+  top: 15px;
 }
