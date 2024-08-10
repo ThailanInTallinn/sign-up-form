@@ -17,10 +17,6 @@ body {
   position: relative;
 }
 
-.right_container {
-  width: 65vw;
-}
-
 .logo_container {
   background-color: rgba(0, 0, 0, 0.4);
   display: flex;
@@ -48,4 +44,8 @@ body {
   font-size: clamp(98px, 5vw, 150px);
   position: relative;
   top: 15px;
+}
+
+.right_container {
+  width: 65vw;
 }
