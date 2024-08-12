@@ -24,6 +24,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 18vh;
+  width: 100%;
   position: relative;
   top: 22vh;
 }
@@ -41,7 +42,7 @@ body {
 #logo_para {
   font-family: "Norse-Bold";
   color: white;
-  font-size: calc(1.5rem + 0.2vw);
+  font-size: clamp(24px, 5rem + 2vw, 25vh);
   position: relative;
   top: 15px;
 }
