@@ -51,7 +51,7 @@ body {
 }
 
 .header_text {
-  width: clamp();
+  width: 100%;
 }
 
 .header_text h2,
