@@ -41,7 +41,7 @@ body {
 #logo_para {
   font-family: "Norse-Bold";
   color: white;
-  font-size: clamp(98px, 5vw, 150px);
+  font-size: calc(1.5rem + 0.2vw);
   position: relative;
   top: 15px;
 }
@@ -50,9 +50,13 @@ body {
   width: 65vw;
 }
 
+.header_text {
+  width: clamp();
+}
+
 .header_text h2,
 .header_text p {
-  font-size: clamp(0.5rem, 1rem, 2rem);
+  font-size: calc(1.5rem + 0.2vw);
   font-family: sans-serif;
   font-weight: 600;
 }
