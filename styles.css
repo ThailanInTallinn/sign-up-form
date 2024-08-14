@@ -71,9 +71,15 @@ body {
   margin-top: 4vh;
 }
 
+form {
+  background-color: white;
+  height: 35vh;
+  box-shadow: 0px 22px 57px -33px rgba(0, 0, 0, 0.67);
+  padding: 2vh 2vw 2vh 2vw;
+}
+
 form h2 {
   font-size: calc(1.3rem + 0.2vw);
   font-weight: 600;
   font-family: sans-serif;
-  margin: 10px auto 1vh 2vw;
 }
