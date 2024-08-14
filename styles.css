@@ -49,19 +49,20 @@ body {
 
 .right_container {
   width: 65vw;
+  background-color: rgb(241, 246, 250);
 }
 
 .header_text {
-  width: 70%;
+  width: 75%;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  margin: 15vh auto 4vh 2vw;
+  margin: 17vh auto 4vh 2vw;
 }
 
 .header_text h2,
 .header_text p {
-  font-size: calc(1.5rem + 0.2vw);
+  font-size: calc(1.3rem + 0.2vw);
   font-family: sans-serif;
   font-weight: 600;
 }
