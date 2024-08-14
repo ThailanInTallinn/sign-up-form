@@ -84,3 +84,12 @@ form h2 {
   font-weight: 600;
   font-family: sans-serif;
 }
+
+form label {
+  font-family: "Montserrat";
+  font-size: calc(0.4rem + 0.2vw);
+  color: rgb(61, 61, 61);
+  font-variant: small-caps;
+  font-weight: 600;
+  letter-spacing: 0.1ch;
+}
