@@ -96,7 +96,7 @@ form h2 {
 
 form label {
   font-family: "Montserrat";
-  font-size: calc(0.4rem + 0.2vw);
+  font-size: calc(0.5rem + 0.2vw);
   color: rgb(61, 61, 61);
   font-weight: 600;
   letter-spacing: 0.1ch;
@@ -107,6 +107,6 @@ form label {
 form input {
   border: 1px solid #e5e7eb;
   border-radius: 3px;
-  height: calc(1.4rem + 0.2vh);
-  width: 200px;
+  height: calc(1.5rem + 0.2vh);
+  width: 220px;
 }
