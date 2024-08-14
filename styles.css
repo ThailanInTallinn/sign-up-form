@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   border: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -84,7 +85,7 @@ form {
 
 .form_container {
   display: flex;
-  width: 50%;
+  width: clamp(550px, 50%, 600px);
   justify-content: space-between;
 }
 
