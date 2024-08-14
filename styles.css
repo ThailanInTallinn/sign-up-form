@@ -70,3 +70,10 @@ body {
 .header_text p {
   margin-top: 4vh;
 }
+
+form h2 {
+  font-size: calc(1.3rem + 0.2vw);
+  font-weight: 600;
+  font-family: sans-serif;
+  margin: 10px auto 1vh 2vw;
+}
