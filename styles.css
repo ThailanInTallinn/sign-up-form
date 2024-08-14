@@ -91,6 +91,8 @@ form label {
   color: rgb(61, 61, 61);
   font-weight: 600;
   letter-spacing: 0.1ch;
+  display: flex;
+  flex-direction: column;
 }
 
 form input {
