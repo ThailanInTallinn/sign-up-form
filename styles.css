@@ -122,3 +122,7 @@ form input:invalid {
 form input:invalid:placeholder-shown {
   border: 1px solid #e5e7eb;
 }
+
+form input:focus {
+  box-shadow: 10px 10px 30px -11px rgba(0, 0, 0, 0.75);
+}
