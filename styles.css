@@ -116,5 +116,9 @@ form input {
 }
 
 form input:invalid {
-  border-color: red;
+  border: 1px solid red;
+}
+
+form input:invalid:placeholder-shown {
+  border: 1px solid #e5e7eb;
 }
