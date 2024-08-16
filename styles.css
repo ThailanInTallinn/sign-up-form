@@ -137,4 +137,5 @@ form input:focus {
   font-size: 1.1rem;
   font-weight: 500;
   box-shadow: 10px 10px 30px -11px rgba(0, 0, 0, 0.75);
+  cursor: pointer;
 }
