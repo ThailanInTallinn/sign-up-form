@@ -139,3 +139,15 @@ form input:focus {
   box-shadow: 10px 10px 30px -11px rgba(0, 0, 0, 0.75);
   cursor: pointer;
 }
+
+#loginPara {
+  font-family: sans-serif;
+  font-size: calc(0.8rem + 0.2vw);
+  margin: 2.5vh auto 0px 2vw;
+}
+
+#loginPara a {
+  text-decoration: none;
+  color: #596d48;
+  font-weight: 600;
+}
